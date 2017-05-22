@@ -1,5 +1,63 @@
-# magento2-auto-pull-and-deploy
-Mangento 2 project auto pull on test server and deploy static code
+# Magento 2 auto pull and deploy shell script
+
+Shell script that  pulls lates changed from git automatically and if there is changes then runs deploy scirpts for magento 2 project.
+
+## Getting Started
+
+Download the project and copy project files to the root of the magento directory
+
+### Prerequisites
+
+Basic knowledge about shell scirpts, commandline scripts and the cron jobs.
+
+```
+Give examples
+```
+
+### Installing
+
+1. Copy shell script(s)  to the base of the magento 2 project.
+```
+TODO
+```
+2. Go trough settings of the deploy script. The default should be goot to go, but some there is some settings that allows you to change some processes.
+```
+TODO
+```
+3. Make a test, check if the script does not fail.
+```
+TODO
+```
+4. Add script to cron tasks.
+```
+TODO
+```
+5. Test if the cron job works.
+```
+TODO
+```
+
+
+## Built With
+
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Aivars Lauzis** - *Initial work* - [PurpleBooth](https://github.com/lauzis)
+
+
+## License
+
+This project is licensed under the GPL3 - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
 
 
 Version 1.0.1 Todo's
